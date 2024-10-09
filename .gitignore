@@ -1,0 +1,9 @@
+.vs/
+
+vcpkg_installed/
+x64/
+Win32/
+**/x64/
+**/Win32/
+
+**/*.vcxproj.user
